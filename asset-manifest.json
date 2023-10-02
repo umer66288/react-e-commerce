@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-e-commerce/static/css/main.e6c13ad2.css",
+    "main.js": "/react-e-commerce/static/js/main.4b4ed957.js",
+    "static/js/787.69069981.chunk.js": "/react-e-commerce/static/js/787.69069981.chunk.js",
+    "static/media/gif.gif": "/react-e-commerce/static/media/gif.c5ad2d75024596ba84d1.gif",
+    "index.html": "/react-e-commerce/index.html",
+    "main.e6c13ad2.css.map": "/react-e-commerce/static/css/main.e6c13ad2.css.map",
+    "main.4b4ed957.js.map": "/react-e-commerce/static/js/main.4b4ed957.js.map",
+    "787.69069981.chunk.js.map": "/react-e-commerce/static/js/787.69069981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4b4ed957.js"
+  ]
+}
