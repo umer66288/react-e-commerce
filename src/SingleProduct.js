@@ -80,9 +80,9 @@ const SingleProduct = () => {
               Available:
               <span> {stock > 0 ? "In Stock" : "Not Available"}</span>
             </p>
-            <p>
+            {/* <p>
               ID : <span> {id} </span>
-            </p>
+            </p> */}
             <p>
               Brand :<span> {company} </span>
             </p>
